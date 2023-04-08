@@ -1,0 +1,1 @@
+# Finalized-2-Page-Magazine
