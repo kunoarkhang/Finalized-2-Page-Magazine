@@ -199,7 +199,7 @@ ul{
 }
 .asaprocky{
     grid-column: 1;
-    width: 420px;
+    width: 430px;
     height: 620px;
     margin: 5px;
     border: #000000 double 3px;
@@ -212,7 +212,7 @@ ul{
     margin: 10px;
 }
 .hanni{
-    width: 420px;
+    width: 430px;
     height:620px;
     margin:5px;
     margin-left: 23px;
@@ -220,6 +220,7 @@ ul{
 }
 .hanni:hover{
     content: url("https://pbs.twimg.com/media/Fpw47F3aEAEiIDy?format=jpg&name=large");
+    /*here you can see a hover again*/
 }
 .guccitext{
     text-align: justify;
